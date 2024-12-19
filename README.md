@@ -34,7 +34,7 @@ Steps Involved:
 The COVID-19 dataset is loaded and cleaned to ensure consistency and handle missing or invalid data (e.g., converting string values to numeric types).
 The dataset includes daily counts of confirmed, recovered, and deceased cases for various states.
 
-2.Trend Analysis of Confirmed Cases:
+2. Trend Analysis of Confirmed Cases:
 Line plots are generated to visualize the evolution of confirmed cases for each state.
 Key trends are identified, such as periods of rapid growth or stabilization, along with possible explanations like interventions or seasonal effects.
 
